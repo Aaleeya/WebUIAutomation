@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T19:03:41 GMT-05:00" name="Default suite" finished-at="2022-11-22T19:03:48 GMT-05:00" duration-ms="6797">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T19:03:41 GMT-05:00" name="Default test" finished-at="2022-11-22T19:03:48 GMT-05:00" duration-ms="6797">
+      <class name="PractiseScripts.WebAutomation.LoginTest">
+        <test-method is-config="true" signature="startup()[pri:0, instance:PractiseScripts.WebAutomation.LoginTest@3e92efc3]" started-at="2022-11-22T19:03:41 GMT-05:00" name="startup" finished-at="2022-11-22T19:03:48 GMT-05:00" duration-ms="6431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="login()[pri:0, instance:PractiseScripts.WebAutomation.LoginTest@3e92efc3]" started-at="2022-11-22T19:03:48 GMT-05:00" name="login" finished-at="2022-11-22T19:03:48 GMT-05:00" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- PractiseScripts.WebAutomation.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
